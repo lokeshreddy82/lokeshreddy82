@@ -1,4 +1,4 @@
-![logo](https://github.com/lokeshreddy82/lokeshreddy82/blob/main/github-header-image.png)
+![logo](https://github.com/lokeshreddy82/lokeshreddy82/blob/main/mylivewallpapers-com-Lee-Punishi%20(1).gif)
 <h1 align="center">This is Lokesh Reddy 😎</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="coding" width="450" src="https://media.giphy.com/media/dlMIwDQAxXn1K/giphy.gif">
