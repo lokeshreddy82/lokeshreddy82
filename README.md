@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋,This is  Lokesh Reddy</h1>
+![logo](https://github.com/lokeshreddy82/lokeshreddy82/blob/main/github-header-image.png)
+<h1 align="center">This is  Lokesh Reddy</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="coding" width="450" src="https://www.silextechnology.com/hubfs/Blog_Images/1_ktMRyTnut5YK_0LoEJebUA.gif#keepProtocol">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshreddy82&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshreddy82" /> </p>
