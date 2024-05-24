@@ -1,16 +1,16 @@
 ![logo](https://github.com/lokeshreddy82/lokeshreddy82/blob/main/github-header-image.png)
-<h1 align="center">This is  Lokesh Reddy</h1>
+<h1 align="center">This is Lokesh Reddy 😎</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="coding" width="450" src="https://media.giphy.com/media/dlMIwDQAxXn1K/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshreddy82&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshreddy82" /> </p>
 
 - 🌱 I’m currently learning **Neural Networks**
 
-- 🤝 I’m looking for help with **CP HELPER😰☠️**
+- 🤝 I’m currently working with project it is **😉Another hand for CP😰☠️**
 
 - 📝 I regularly write articles on [linkedin.com/in/lokesh-py](linkedin.com/in/lokesh-py)
 
-- 💬 Ask me about **machine learning , problem solving**
+- 💬 Ask me about **machine learning and  problem solving**
 
 - 📫 How to reach me **kannapulokeshreddy82@gmail.com**
 
@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lokesh reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh reddy" height="30" width="40" /></a>
-<a href="https://instagram.com/_lokesh_82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_lokesh_82" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lokesh-py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh reddy" height="30" width="40" /></a>
+<a href="https://instagram.com/_lokesh_82_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_lokesh_82" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/kannapulokeshreddy82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kannapulokeshreddy82" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/21691a37_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="21691a37_20" height="30" width="40" /></a>
 </p>
