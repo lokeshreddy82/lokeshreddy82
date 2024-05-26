@@ -17,7 +17,6 @@
 - 📄 Know about my experiences [linkedin.com/in/lokesh-py](linkedin.com/in/lokesh-py)
 
 - ⚡ **Code is not fun it is breath❤️**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lokesh-py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh reddy" height="30" width="40" /></a>
@@ -32,3 +31,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokeshreddy82&show_icons=true&locale=en&layout=compact" alt="lokeshreddy82" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshreddy82&" alt="lokeshreddy82" /></p>
+<img  align="left" alt="coding" src="https://github.com/lokeshreddy82/lokeshreddy82/blob/main/kannah.jpg">
