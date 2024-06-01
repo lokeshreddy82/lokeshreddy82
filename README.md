@@ -31,4 +31,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokeshreddy82&show_icons=true&locale=en&layout=compact" alt="lokeshreddy82" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshreddy82&" alt="lokeshreddy82" /></p>
-<img  align="left" alt="coding" src="https://github.com/lokeshreddy82/lokeshreddy82/blob/main/kannah.jpg">
+<p align="center">
+ <img width="1000" src="https://github.com/lokeshreddy82/lokeshreddy82/blob/main/game.svg" alt="snake"/>
+</p>
