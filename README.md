@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/lokesh-py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh reddy" height="30" width="40" /></a>
 <a href="https://instagram.com/_lokesh_82_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_lokesh_82" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/kannapulokeshreddy82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kannapulokeshreddy82" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/21691a37_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="21691a37_20" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/21691a3720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="21691a37_20" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
