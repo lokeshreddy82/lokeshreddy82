@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Neural Networks**
 
-- 🤝 I’m currently working with project it is **😉Another hand for CP😰☠️**
+- 🤝 I’m currently working with project it is **😉 Early price prediction of a crops 😰☠️**
 
 - 📝 I regularly write articles on [linkedin.com/in/lokesh-py](linkedin.com/in/lokesh-py)
 
@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/lokesh-py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh reddy" height="30" width="40" /></a>
 <a href="https://instagram.com/_lokesh_82_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_lokesh_82" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/kannapulokeshreddy82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kannapulokeshreddy82" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/kannapulokeshreddy82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"  height="30" width="40" /></a>
 <a href="https://www.leetcode.com/21691a3720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="21691a37_20" height="30" width="40" /></a>
 </p>
 
